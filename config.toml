@@ -1,5 +1,5 @@
-# baseurl = "https://mississaugalug.github.io/"
-baseurl = "http://localhost"
+baseurl = "https://mississaugalug.github.io/"
+# baseurl = "http://localhost"
 disablePathToLower = false
 languageCode = "en-us"
 title = "Mississauga LUG"
