@@ -16,7 +16,8 @@
   {{ end }}
 
   <!-- goes into the title bar -->
-  <title>{{ .Title }}</title>
+  <!-- <title>{{ .Title }}</title> -->
+  <title>MLUG - {{ .Title }}</title>
 
   <!-- css -->
   <!-- original css -->
@@ -31,7 +32,8 @@
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 
   <!-- Icons -->
-  <link href="{{ "/favicon.png" | absURL }}" rel="icon">
+  <!-- <link href="{{ "/favicon.png" | absURL }}" rel="icon"> -->
+  <link href="{{ "/favicon.ico" | absURL }}" rel="icon">
 
   <!-- RSS -->
   {{ $siteTitle := .Site.Title }}
