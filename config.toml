@@ -132,31 +132,36 @@ post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the 
 [[menu.main]]
   Name = "Home"
   URL = "home"
-  weight = -5
+  weight = -6
 
 [[menu.main]]
   Name = "About Us"
   URL = "about"
-  weight = -4
+  weight = -5
 
 [[menu.main]]
   Name = "About Linux"
   URL = "about-linux"
-  weight = -3
+  weight = -4
 
 [[menu.main]]
   Name = "Mailing List"
   URL = "mailing-list"
-  weight = -2
+  weight = -3
 
 [[menu.main]]
   Name = "IRC"
   URL = "irc"
-  weight = -1
+  weight = -2
 
 [[menu.main]]
   Name = "Meetings"
   URL = "meetings"
+  weight = -1
+
+[[menu.main]]
+  Name = "Status"
+  URL = "status"
   weight = 0
 
 # Sidebar menus
