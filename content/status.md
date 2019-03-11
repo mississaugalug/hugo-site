@@ -10,11 +10,11 @@ Group Activity Status
 
 This is the current status of our Linux User Group:
 
-_Last updated on 2017-09-26_
+_Last updated on 2019-03-11_
 
 | Item | status | Comment |
 |----|------|-------|
 | Meetings | <span style="color:red">Inactive</span> ||
-| Mailing List | <span style="color:green">Active</span> | Old mailing list is active |
-| IRC Channel  | <span style="color:green">Active</span>  | Usually empty |
-| Twitter  | <span style="color:green">Active</span>  | Not many posts  |
+| Mailing List | <span style="color:red">Inactive</span> | Old mailing list is active |
+| IRC Channel  | <span style="color:orange">Somewhat Active</span>  | Usually empty |
+| Twitter  | <span style="color:orange">Somewhat Active</span>  | Not many posts  |
