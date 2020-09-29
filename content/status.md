@@ -10,7 +10,7 @@ Group Activity Status
 
 This is the current status of our Linux User Group:
 
-_Last updated on 2019-03-11_
+_Last updated on 2020-09-29_
 
 | Item | status | Comment |
 |----|------|-------|
