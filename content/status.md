@@ -16,5 +16,5 @@ _Last updated on 2019-03-11_
 |----|------|-------|
 | Meetings | <span style="color:red">Inactive</span> ||
 | Mailing List | <span style="color:red">Inactive</span> | Old mailing list is active |
-| IRC Channel  | <span style="color:orange">Somewhat Active</span>  | Usually empty |
-| Twitter  | <span style="color:orange">Somewhat Active</span>  | Not many posts  |
+| IRC Channel  | <span style="color:orange">Somewhat Active</span> | Usually empty |
+| Twitter  | <span style="color:red">Inactive</span> | Not many posts  |

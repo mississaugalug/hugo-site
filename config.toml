@@ -1,4 +1,4 @@
-baseurl = "https://mississaugalug.github.io/"
+baseurl = "https://mississaugalug.org/"
 # baseurl = "http://localhost"
 disablePathToLower = false
 languageCode = "en-us"
